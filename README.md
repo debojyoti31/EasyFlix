@@ -1,5 +1,5 @@
 # EasyFlix
-This website provides information and streaming options for movies and TV shows.
+This website provides streaming options for movies and TV shows.
 
 ## Source Code
 
