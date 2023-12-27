@@ -1,4 +1,4 @@
-# EasyFlix
+# EasyFlix2
 This website provides streaming options for movies and TV shows.
 
 ## Source Code
